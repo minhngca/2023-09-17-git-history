@@ -2,3 +2,5 @@
 This line added remotely (github)
 
 This line added locally.
+
+This line will create conflicts.
