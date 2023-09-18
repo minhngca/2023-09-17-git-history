@@ -3,4 +3,4 @@ This line added remotely (github)
 
 This line added locally.
 
-This line will create conflicts.
+I want to make some changes here too (online) and offline too.
