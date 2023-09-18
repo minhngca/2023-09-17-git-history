@@ -9,4 +9,11 @@ Line 8 is being editted online and offline
 
 While here (line 10) seems to be safe
 
+<<<<<<< Updated upstream
 Line 12 is all about maple.
+=======
+
+
+
+Line 15 (local) is all about racoons
+>>>>>>> Stashed changes
